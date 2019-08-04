@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a416c353-9111-4de8-ac99-dbeeb2878cd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/heroes-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heroapi.log" beforeDir="false" afterPath="$PROJECT_DIR$/heroapi.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/udea/heroes/api/controller/HeroController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/udea/heroes/api/controller/HeroController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/udea/heroes/api/model/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/udea/heroes/api/model/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/udea/heroes/api/repository/HeroRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/udea/heroes/api/repository/HeroRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/udea/heroes/api/service/HeroService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/udea/heroes/api/service/HeroService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/udea/heroes/api/service/HeroServiceInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/udea/heroes/api/service/HeroServiceInt.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1OvMWxIG9rZzrIvu3IVewFKoE0i" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="heroes-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="co.udea.heroes.api.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a416c353-9111-4de8-ac99-dbeeb2878cd1" name="Default Changelist" comment="" />
+      <created>1564853654223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564853654223</updated>
+      <workItem from="1564853661482" duration="14130000" />
+      <workItem from="1564939889339" duration="19084000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
